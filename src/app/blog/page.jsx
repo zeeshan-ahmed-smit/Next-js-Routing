@@ -1,6 +1,6 @@
 'use client'
 import React from 'react';
-import {ImBlogger} from 'react-icons/Im';
+import {ImBlogger} from 'react-icons/im';
 import Header from '@/components/header/Header';
 
 function Blog() {
